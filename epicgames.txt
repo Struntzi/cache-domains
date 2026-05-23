@@ -13,6 +13,3 @@ egdownload.fastly-edge.com
 epicgames-download1.akamaized.net
 fastly-download.epicgames.com
 egs-cloudfront-chunks.epicgamescdn.com
-egs-download-manager.store.on.epicgames.com
-eosh.epicgamescdn.com
-*.epicgamescdn.com
